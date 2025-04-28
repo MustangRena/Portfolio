@@ -264,7 +264,7 @@ input, select, textarea {
 		@media screen and (max-width: 960px) {
 
 			.container {
-				width: 80%;
+				width: 70%;
 			}
 
 		}
@@ -272,7 +272,7 @@ input, select, textarea {
 		@media screen and (max-width: 736px) {
 
 			.container {
-				width: 80%;
+				width: 70%;
 			}
 
 		}
@@ -1797,12 +1797,13 @@ input, select, textarea {
     background-size: cover;
     text-transform: uppercase;
     text-shadow: -1px 1.5px 0 #222729;
+    text-wrap: balance;
     border: .50rem solid #7399bd;
     margin-top: 2%;
     box-shadow: .50em 1em 0.5em 0 rgba(0, 0, 0, 0.15);
     overflow-x: clip;
     width: 90%;
-    height: 600px;
+    height: 400px;
     border-radius: 1rem;
 
    -webkit-animation: slidein 100s;
@@ -1840,7 +1841,6 @@ to {background-position: -100px;background-size:1250px;}
     -webkit-filter: drop-shadow(2px 2px #333);
     padding: 5%;
     text-wrap: balance;
-
 }
   
 
@@ -2437,9 +2437,9 @@ to {background-position: -100px;background-size:1250px;}
 				padding: 5rem 0;
             }
 
-            /*.alt {
+            .alt {
                 background-image: url("../css/images/pexels-rakicevic-nenad-233369-801885.webp");
-            }*/
+            }
 			
 
 			#main section.cover {
@@ -2711,9 +2711,9 @@ to {background-position: -100px;background-size:1250px;}
 					padding: 3em 0;
 				}
 
-                /*.alt {
+                .alt {
                     background-image: url("../css/images/pexels-rakicevic-nenad-233369-801885.webp");
-                }*/
+                }
 
 				#main section.cover {
 					padding: 4em 0;
@@ -2753,9 +2753,9 @@ to {background-position: -100px;background-size:1250px;}
 			#main > section {
 				padding: 2em 0;
 			}
-           /* .alt {
+            .alt {
                 background-image: url("../css/images/pexels-rakicevic-nenad-233369-801885.webp");
-            }*/
+            }
 
 			#main section.cover {
 				padding: 4em 0em;
@@ -2811,7 +2811,7 @@ to {background-position: -100px;background-size:1250px;}
 				padding: 2em 0;
 			}
 
-            /*.alt {
+            .alt {
                 background-image: url("../css/images/pexels-rakicevic-nenad-233369-801885.webp");*/
             }
 			#main section.cover {
