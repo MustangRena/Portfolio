@@ -249,6 +249,7 @@ input, select, textarea {
 
 			.container {
 				width: 80%;
+                padding: 0 2em 0 2em;
 			}
 
 		}
@@ -257,6 +258,7 @@ input, select, textarea {
 
 			.container {
 				width: 80%;
+                padding: 0 2em 0 2em;
 			}
 
 		}
@@ -265,6 +267,7 @@ input, select, textarea {
 
 			.container {
 				width: 70%;
+                padding: 0 2em 0 2em;
 			}
 
 		}
@@ -273,20 +276,22 @@ input, select, textarea {
 
 			.container {
 				width: 70%;
+                padding: 0 2em 0 2em;
 			}
 
 		}
         @media only screen and (max-width: 600px) {
 
             .container {
-                width: 100%;
+                width: 80%;
+                padding: 0 2em 0 2em;
             }
         }
 
         @media only screen and (min-width: 320px) {
            
             .container {
-                width: 100%;
+                width: 80%;
                 padding: 0 2em 0 2em;
             }
         }
